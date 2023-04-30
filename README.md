@@ -1,3 +1,3 @@
 # hello-world
-Hi
-I was very passionate
+# Всем пока
+
